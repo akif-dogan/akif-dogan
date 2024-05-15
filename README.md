@@ -1,4 +1,4 @@
-<p align="center">Hi there! I'm Akif, a Developer with a passion for open-source projects and community engagement. I'm eager to apply my knowledge and skills in the cloud computing world to help organizations develop strategic solutions for their digital transformation processes.</p>
+<p align="center">Hi there! I'm Akif, a Developer with a passion for open-source projects and community engagement. I'm eager to apply my knowledge and skills in the Blockchain world to help organizations develop strategic solutions for their digital transformation processes.</p>
 
 
 
