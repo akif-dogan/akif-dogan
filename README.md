@@ -4,5 +4,5 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,php,py,go,js,ts,nodejs,androidstudio,flutter,apple,react,redux,nextjs,aws,azure,bash,c,cs,cpp,cloudflare,docker,dotnet,figma,firebase,materialui,styledcomponents,babel,webpack,mongodb,postgres,mysql,git,githubactions,gitlab,linux,idea&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,php,py,go,js,ts,nodejs,vscode,androidstudio,flutter,apple,ipfs,rust,sass,react,redux,nextjs,aws,azure,laravel,bash,c,cs,cpp,cloudflare,docker,dotnet,figma,firebase,materialui,styledcomponents,babel,webpack,mongodb,postgres,mysql,git,githubactions,gitlab,linux,ubuntu,idea,ai&perline=14" />
  </p>
